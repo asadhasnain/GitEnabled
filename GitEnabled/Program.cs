@@ -10,7 +10,7 @@ namespace GitEnabled
         {
         static void Main(string[] args)
             {
-            Console.WriteLine ("Hello World!-Feature A - Conflict with Feature A - Conflict Master");
+            Console.WriteLine ("Hello World!-Feature A - Conflict with Master - Conflict A and Master");
             Console.ReadKey ();
             }
         }
